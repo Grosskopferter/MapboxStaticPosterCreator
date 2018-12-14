@@ -5,8 +5,8 @@ set lonstep=100
 set lonsteps=4
 set /A lonEnd=%lon%+(%lonstep%*%lonsteps%)
 
-set lat=57034
-set latstep=1000
+set lat=570340
+set latstep=6867
 set latsteps=1
 set /A latEnd=%lat%+(%latstep%*%latsteps%)
 
